@@ -36,10 +36,10 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Startseite
   url: /
-- title: Comics
-  url: /upload/
 - title: News
   url: /News/
+- title: Über Edgard
+  url: ueber.md
 
 # Footer nav
 navigation_footer:
