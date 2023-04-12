@@ -1,7 +1,3 @@
----
-title: Edgard Story 
----
-
 Edgard ist in kleinen beschaulichen Deppenhöfen geboren, im Jahre 1993 an einem Sommertag. Sonst hat er keine Geschwister. Mit 8 Jahren ist er mit seiner Familie nach
   Würzburg gezogen. Er kannte niemanden dort. Fand keine Freunde und vermisste Gudrun (Nachbars ältere Kuh). Wie es denn so kommt, fand Edgard ein Ausgleich 
   zum Leben – zocken. In der Schule wurden seine Leistungen immer schlechter. Seine Eltern scheidenden sich. Da war Edgard schon mehr ein Zocker Zombie.
