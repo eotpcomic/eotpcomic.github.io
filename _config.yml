@@ -38,8 +38,8 @@ navigation_header:
   url: /
 - title: Comics
   url: /upload/
-- title: Team
-  url: /team/
+- title: News
+  url: /News/
 
 # Footer nav
 navigation_footer:
@@ -49,12 +49,9 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Team
+    title: News
     output: true
     description: ""
-    feature_text: |
-      Team
-    feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
 defaults:
