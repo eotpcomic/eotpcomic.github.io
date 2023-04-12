@@ -30,16 +30,16 @@ logo: ""
 
 # Pagination
 paginate: 10
-paginate_path: News/page:num
+paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Startseite
+- title: Home
   url: /
-- title: News
-  url: /News/
-- title: Über Edgard
+- title: Story
   url: ueber.md
+- title: Blog
+  url: /blog/
 
 # Footer nav
 navigation_footer:
@@ -49,7 +49,7 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: News
+    title: Blog
     output: true
     description: ""
 

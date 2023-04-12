@@ -1,5 +1,6 @@
 ---
-title: Welcome to my website
+title: 
 ---
+#Eotp Comic
+Ist ein Webcomic Project von RoseLeBlood und Vennex
 
-There isn't much going on here yet, but watch this space
