@@ -37,7 +37,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Story
-  url: ueber.md
+  url: story
 - title: Blog
   url: /blog/
 
