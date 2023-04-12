@@ -27,6 +27,7 @@ title: 'Edgard of The Plague'
 description: 'A Webcomic Project'
 permalink: pretty
 logo: ""
+markdown: GFM
 
 # Pagination
 paginate: 10
